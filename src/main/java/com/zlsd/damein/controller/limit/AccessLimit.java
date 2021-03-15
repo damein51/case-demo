@@ -1,4 +1,4 @@
-package com.zlsd.damein.controller;
+package com.zlsd.damein.controller.limit;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;

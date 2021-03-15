@@ -1,4 +1,4 @@
-package com.zlsd.damein.controller;
+package com.zlsd.damein.controller.limit;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
